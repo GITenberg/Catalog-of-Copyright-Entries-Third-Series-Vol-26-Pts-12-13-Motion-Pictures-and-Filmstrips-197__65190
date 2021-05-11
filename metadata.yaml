@@ -1,5 +1,8 @@
 _repo: Catalog-of-Copyright-Entries-Third-Series-Vol-26-Pts-12-13-Motion-Pictures-and-Filmstrips-197__65190
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65190-h/images/cover.jpg
 creator:
   author:
     agent_name: Library of Congress. Copyright Office
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/141
     wikipedia: https://en.wikipedia.org/wiki/United_States_Copyright_Office
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65190#Catalog-of-Copyright-Entries-Third-Series-Vol-26-Pts-12-13-Motion-Pictures-and-Filmstrips-197_
 gutenberg_issued: '2021-04-29'
 gutenberg_type: Text
 identifiers:
